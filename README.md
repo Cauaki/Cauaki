@@ -2,7 +2,7 @@
 ### 😎 Hey, Cauaki aqui!
 <div align="left"> 
   
-  ![ezgif com-resize](https://user-images.githubusercontent.com/125322846/222196741-7706b557-cb5b-407e-9730-e77131504717.gif)
+  ![ezgif com-resize (2)](https://user-images.githubusercontent.com/125322846/222208278-c62acc7e-7585-4e53-abc9-79f412cf440b.gif)
 </div>  
 
 - 🔭 Iniciando no mundo da programação
