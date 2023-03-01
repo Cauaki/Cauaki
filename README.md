@@ -1,9 +1,10 @@
+
 ### 😎 Hey, Cauaki aqui!
-<div align="right"> 
+<div align="left"> 
   
   ![ezgif com-resize](https://user-images.githubusercontent.com/125322846/222196741-7706b557-cb5b-407e-9730-e77131504717.gif)
 </div>  
-  
+
 - 🔭 Iniciando no mundo da programação
 - 🌱 Estudando Java
 - 💻 Pretendo começar a cursar Ciência da Computação e conseguir meu primeiro emprego no mercado e na área 
