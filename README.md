@@ -28,5 +28,6 @@
  
   ![Snake animation](https://github.com/Cauaki/Cauaki/blob/output/github-contribution-grid-snake.svg)
  
+  ![Gif character Makowka Picrew pro meu Github](https://user-images.githubusercontent.com/125322846/222191477-136a7c9a-0d33-41c4-8bc8-fede0583c1e0.gif)"
 </div>
  
