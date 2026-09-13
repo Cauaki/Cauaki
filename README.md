@@ -5,25 +5,18 @@
 </div>  
 
 - 🔭 Iniciando no mundo da programação
-- 🌱 Estudando Python
+- 🌱 Estudando Python, Segurança da Informação e Ciência de Dados
 - 💻 Cursando Engenharia de Software e procurando meu primeiro emprego 
 - 📫 Contato: cauafelipelimacarvalho@gmail.com    +55 (61) 99233-5655
 - 😄 Pronomes: Ele/Dele 
 
-<div align="center">
-  <a href="https://github.com/Cauaki">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Cauaki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaki&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
-
 <br>
 
 <div align="center">
-  <img alt="Cauaki-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img alt="Cauaki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img alt="Cauaki-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Cauaki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img alt="Kali Linux (Pentest)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg">
+  <img alt="Pandas (Data Science)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 </div>
 
 <hr>
