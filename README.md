@@ -6,8 +6,8 @@
 </div>  
 
 - 🔭 Iniciando no mundo da programação
-- 🌱 Estudando Java
-- 💻 Cursando Ciência da Computação e procurando meu primeiro emprego 
+- 🌱 Estudando Python
+- 💻 Cursando Engenharia de Software e procurando meu primeiro emprego 
 - 📫 Contato: cauafelipelimacarvalho@gmail.com    +55 (61) 99233-5655
 - 😄 Pronomes: Ele/Dele 
 
